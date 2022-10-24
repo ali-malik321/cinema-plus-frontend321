@@ -1,5 +1,5 @@
 {
-  "parser": "babel-eslint",
+  "parser": "react-scripts/node_modules/babel-eslint",
   "rules": {
     "comma-dangle": 0,
     "indent": [

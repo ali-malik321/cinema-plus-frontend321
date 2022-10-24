@@ -8,7 +8,7 @@ export default function Footer() {
     <div className={classes.root}>
       <Divider />
       <Typography className={classes.copyright} variant="body1">
-        &copy; George Simos. 2020
+        &copy; 2022 Snexus. All Rights Reserved.
       </Typography>
       <Typography variant="caption">
         Crafted with love |{' '}
